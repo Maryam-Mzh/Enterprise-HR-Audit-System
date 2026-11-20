@@ -39,8 +39,8 @@ Enterprise-HR-Audit-System/
 ![Database Schema](images/erd_diagram.png)
 ### Audit Output
 ![Sample Audit Log](images/Audit_Log.png)
-### Stored Procedure & Audit Logic
-![Stored Procedure Execution](images/Temporal_Table_History.png)
+### Temporal Table History Tracking
+![Temporal Table History](images/Temporal_Table_History.png)
 
 ---
 
