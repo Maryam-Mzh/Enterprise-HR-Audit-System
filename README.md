@@ -36,11 +36,11 @@ Enterprise-HR-Audit-System/
 
 ## 📊 Visual Documentation & Screenshots
 ### Database Diagram
-![Database Schema](erd_diagram.png)
+![Database Schema](images/erd_diagram.png)
 ### Audit Output
-![Sample Audit Log](Audit_Log.png)
+![Sample Audit Log](images/Audit_Log.png)
 ### Stored Procedure & Audit Logic
-![Stored Procedure Execution](Temporal_Table_History.png.png)
+![Stored Procedure Execution](images/Temporal_Table_History.png)
 
 ---
 
